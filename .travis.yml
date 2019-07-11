@@ -39,7 +39,7 @@ deploy:
   target_branch: gh-pages #gh-pages is the default value
 
 
-# also deploy from master to master, aka auto build fonts in order to make sure master matches gh-pages
+# # also deploy from master to master, aka auto build fonts in order to make sure master matches gh-pages
 # deploy:
 #   provider: pages
 #   skip_cleanup: true
