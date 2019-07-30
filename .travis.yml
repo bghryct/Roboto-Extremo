@@ -1,3 +1,4 @@
+dist: bionic
 sudo: true
 language: python
 
@@ -25,6 +26,8 @@ before_script:
 
   # proof
   - pip install brotli zopfli fontTools
+  - yes '' | pecl install -a yaml
+#  - echo "extension = yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 
 script: 
   - "shellcheck $SHELL_PATH"
