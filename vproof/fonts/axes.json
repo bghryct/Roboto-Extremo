@@ -1,10 +1,60 @@
 {
   "RobotoExtremo-VF": {
     "order": [
+      "YTLC",
+      "YTUC",
+      "YTAS",
+      "YTDE",
+      "YTFI",
+      "XTLC",
+      "XTUC",
       "wght",
       "wdth",
-      "opsz"
+      "opsz",
+      "GRAD"
     ],
+    "YTLC": {
+      "name": "YTLC",
+      "min": 416.0,
+      "max": 570.0,
+      "default": 514.0
+    },
+    "YTUC": {
+      "name": "YTUC",
+      "min": 528.0,
+      "max": 760.0,
+      "default": 712.0
+    },
+    "YTAS": {
+      "name": "YTAS",
+      "min": 649.0,
+      "max": 854.0,
+      "default": 750.0
+    },
+    "YTDE": {
+      "name": "YTDE",
+      "min": -305.0,
+      "max": -98.0,
+      "default": -203.0
+    },
+    "YTFI": {
+      "name": "YTFI",
+      "min": 560.0,
+      "max": 788.0,
+      "default": 738.0
+    },
+    "XTLC": {
+      "name": "XTLC",
+      "min": 129.0,
+      "max": 393.0,
+      "default": 240.0
+    },
+    "XTUC": {
+      "name": "XTUC",
+      "min": 227.0,
+      "max": 507.0,
+      "default": 367.0
+    },
     "wght": {
       "name": "wght",
       "min": 100.0,
@@ -20,8 +70,14 @@
     "opsz": {
       "name": "opsz",
       "min": 8.0,
-      "max": 288.0,
+      "max": 144.0,
       "default": 12.0
+    },
+    "GRAD": {
+      "name": "GRAD",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
     },
     "instances": []
   },
