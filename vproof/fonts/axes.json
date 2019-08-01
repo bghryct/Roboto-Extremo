@@ -1,4 +1,16 @@
 {
+  "RobotoExtremo-Roman-opszmin": {
+    "order": [
+      "opsz"
+    ],
+    "opsz": {
+      "name": "opsz",
+      "min": 8.0,
+      "max": 12.0,
+      "default": 12.0
+    },
+    "instances": []
+  },
   "RobotoExtremo-VF": {
     "order": [
       "YTLC",
@@ -78,18 +90,6 @@
       "min": -1.0,
       "max": 1.0,
       "default": 0.0
-    },
-    "instances": []
-  },
-  "RobotoExtremo-Roman-opszmin": {
-    "order": [
-      "opsz"
-    ],
-    "opsz": {
-      "name": "opsz",
-      "min": 8.0,
-      "max": 12.0,
-      "default": 12.0
     },
     "instances": []
   }
