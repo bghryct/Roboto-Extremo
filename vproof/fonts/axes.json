@@ -13,18 +13,67 @@
   },
   "RobotoExtremo-VF": {
     "order": [
+      "wght",
+      "wdth",
+      "opsz",
+      "GRAD",
+      "YOLC",
+      "YOUC",
+      "YOFI",
       "YTLC",
       "YTUC",
       "YTAS",
       "YTDE",
       "YTFI",
+      "XOLC",
+      "XOUC",
+      "XOFI",
       "XTLC",
       "XTUC",
-      "wght",
-      "wdth",
-      "opsz",
-      "GRAD"
+      "XTFI"
     ],
+    "wght": {
+      "name": "wght",
+      "min": 100.0,
+      "max": 900.0,
+      "default": 400.0
+    },
+    "wdth": {
+      "name": "wdth",
+      "min": 75.0,
+      "max": 125.0,
+      "default": 100.0
+    },
+    "opsz": {
+      "name": "opsz",
+      "min": 8.0,
+      "max": 144.0,
+      "default": 12.0
+    },
+    "GRAD": {
+      "name": "GRAD",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "YOLC": {
+      "name": "YOLC",
+      "min": 25.0,
+      "max": 130.0,
+      "default": 71.0
+    },
+    "YOUC": {
+      "name": "YOUC",
+      "min": 25.0,
+      "max": 135.0,
+      "default": 79.0
+    },
+    "YOFI": {
+      "name": "YOFI",
+      "min": 25.0,
+      "max": 150.0,
+      "default": 85.0
+    },
     "YTLC": {
       "name": "YTLC",
       "min": 416.0,
@@ -55,6 +104,24 @@
       "max": 788.0,
       "default": 738.0
     },
+    "XOLC": {
+      "name": "XOLC",
+      "min": 27.0,
+      "max": 170.0,
+      "default": 93.0
+    },
+    "XOUC": {
+      "name": "XOUC",
+      "min": 27.0,
+      "max": 170.0,
+      "default": 93.0
+    },
+    "XOFI": {
+      "name": "XOFI",
+      "min": 27.0,
+      "max": 180.0,
+      "default": 97.0
+    },
     "XTLC": {
       "name": "XTLC",
       "min": 129.0,
@@ -67,29 +134,11 @@
       "max": 507.0,
       "default": 367.0
     },
-    "wght": {
-      "name": "wght",
-      "min": 100.0,
-      "max": 900.0,
-      "default": 400.0
-    },
-    "wdth": {
-      "name": "wdth",
-      "min": 75.0,
-      "max": 125.0,
-      "default": 100.0
-    },
-    "opsz": {
-      "name": "opsz",
-      "min": 8.0,
-      "max": 144.0,
-      "default": 12.0
-    },
-    "GRAD": {
-      "name": "GRAD",
-      "min": -1.0,
-      "max": 1.0,
-      "default": 0.0
+    "XTFI": {
+      "name": "XTFI",
+      "min": 155.0,
+      "max": 392.0,
+      "default": 292.0
     },
     "instances": []
   }
