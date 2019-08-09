@@ -17,6 +17,9 @@
       "wdth",
       "opsz",
       "GRAD",
+      "XTRA",
+      "XOPQ",
+      "YOPQ",
       "YOLC",
       "YOUC",
       "YOFI",
@@ -55,6 +58,24 @@
       "min": -1.0,
       "max": 1.0,
       "default": 0.0
+    },
+    "XTRA": {
+      "name": "XTRA",
+      "min": 227.0,
+      "max": 507.0,
+      "default": 367.0
+    },
+    "XOPQ": {
+      "name": "XOPQ",
+      "min": 27.0,
+      "max": 170.0,
+      "default": 93.0
+    },
+    "YOPQ": {
+      "name": "YOPQ",
+      "min": 25.0,
+      "max": 135.0,
+      "default": 79.0
     },
     "YOLC": {
       "name": "YOLC",
