@@ -3,11 +3,10 @@
   <advance width="1024"/>
   <outline>
     <contour>
-      <point x="258" y="1614" type="line"/>
-      <point x="766" y="1614" type="line"/>
-      <point x="766" y="1736" type="line"/>
-      <point x="258" y="1736" type="line"/>
+      <point x="246" y="1619" type="line"/>
+      <point x="246" y="1740" type="line"/>
+      <point x="778" y="1740" type="line"/>
+      <point x="778" y="1619" type="line"/>
     </contour>
-    <component base="macron" yOffset="600"/>
   </outline>
 </glyph>

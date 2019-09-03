@@ -18,6 +18,8 @@
     <string>h.glif</string>
     <key>hyphentwo</key>
     <string>hyphentwo.glif</string>
+    <key>jdotless</key>
+    <string>jdotless.glif</string>
     <key>lessequal</key>
     <string>lessequal.glif</string>
     <key>lira</key>
@@ -38,6 +40,8 @@
     <string>quotedblbase.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
     <key>u</key>
     <string>u.glif</string>
   </dict>

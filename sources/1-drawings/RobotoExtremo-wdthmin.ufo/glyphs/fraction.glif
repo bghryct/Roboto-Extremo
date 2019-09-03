@@ -7,9 +7,9 @@
   <outline>
     <contour>
       <point x="649" y="1416" type="line"/>
-      <point x="516" y="1494" type="line"/>
-      <point x="-294" y="41" type="line"/>
       <point x="-165" y="-43" type="line"/>
+      <point x="-294" y="41" type="line"/>
+      <point x="516" y="1494" type="line"/>
     </contour>
   </outline>
   <lib>
