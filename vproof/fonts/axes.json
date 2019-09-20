@@ -29,8 +29,8 @@
     },
     "wdth": {
       "name": "wdth",
-      "min": 75.0,
-      "max": 125.0,
+      "min": 25.0,
+      "max": 151.0,
       "default": 100.0
     },
     "opsz": {
