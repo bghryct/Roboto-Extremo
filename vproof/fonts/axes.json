@@ -19,7 +19,11 @@
       "GRAD",
       "XTRA",
       "XOPQ",
-      "YOPQ"
+      "YOPQ",
+      "YTLC",
+      "YTUC",
+      "YTAS",
+      "YTDE"
     ],
     "wght": {
       "name": "wght",
@@ -62,6 +66,30 @@
       "min": 25.0,
       "max": 135.0,
       "default": 79.0
+    },
+    "YTLC": {
+      "name": "YTLC",
+      "min": 416.0,
+      "max": 570.0,
+      "default": 514.0
+    },
+    "YTUC": {
+      "name": "YTUC",
+      "min": 528.0,
+      "max": 760.0,
+      "default": 712.0
+    },
+    "YTAS": {
+      "name": "YTAS",
+      "min": 649.0,
+      "max": 854.0,
+      "default": 750.0
+    },
+    "YTDE": {
+      "name": "YTDE",
+      "min": -305.0,
+      "max": -98.0,
+      "default": -203.0
     },
     "instances": []
   }
