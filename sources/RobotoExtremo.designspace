@@ -512,6 +512,21 @@
                 <dimension name="YTDE" xvalue="-203" />
             </location>
         </source>
+        <source familyname="RobotoExtremo" filename="../master_ufo/RobotoExtremo-wght900-wdth25.ufo" name="RobotoExtremo-wght900-wdth25.ufo" stylename="wght900-wdth25">
+            <location>
+                <dimension name="wght" xvalue="900" />
+                <dimension name="wdth" xvalue="25" />
+                <dimension name="opsz" xvalue="14" />
+                <dimension name="GRAD" xvalue="0" />
+                <dimension name="XTRA" xvalue="468" />
+                <dimension name="XOPQ" xvalue="96" />
+                <dimension name="YOPQ" xvalue="79" />
+                <dimension name="YTLC" xvalue="514" />
+                <dimension name="YTUC" xvalue="712" />
+                <dimension name="YTAS" xvalue="750" />
+                <dimension name="YTDE" xvalue="-203" />
+            </location>
+        </source>
         <source familyname="RobotoExtremo" filename="../master_ufo/RobotoExtremo-opsz144-wght100-wdth151.ufo" name="RobotoExtremo-opsz144-wght100-wdth151.ufo" stylename="opsz144-wght100-wdth151">
             <location>
                 <dimension name="wght" xvalue="100" />
@@ -577,21 +592,6 @@
                 <dimension name="wght" xvalue="900" />
                 <dimension name="wdth" xvalue="25" />
                 <dimension name="opsz" xvalue="8" />
-                <dimension name="GRAD" xvalue="0" />
-                <dimension name="XTRA" xvalue="468" />
-                <dimension name="XOPQ" xvalue="96" />
-                <dimension name="YOPQ" xvalue="79" />
-                <dimension name="YTLC" xvalue="514" />
-                <dimension name="YTUC" xvalue="712" />
-                <dimension name="YTAS" xvalue="750" />
-                <dimension name="YTDE" xvalue="-203" />
-            </location>
-        </source>
-        <source familyname="RobotoExtremo" filename="../master_ufo/RobotoExtremo-wght900-wdth25.ufo" name="RobotoExtremo-wght900-wdth25.ufo" stylename="wght900-wdth25">
-            <location>
-                <dimension name="wght" xvalue="900" />
-                <dimension name="wdth" xvalue="25" />
-                <dimension name="opsz" xvalue="14" />
                 <dimension name="GRAD" xvalue="0" />
                 <dimension name="XTRA" xvalue="468" />
                 <dimension name="XOPQ" xvalue="96" />
